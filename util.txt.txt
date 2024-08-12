@@ -1,1 +1,1 @@
-version1 is better
+version 2 is better
